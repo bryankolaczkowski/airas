@@ -1,0 +1,6 @@
+RESULTS_dgrem.csv
+meanDistance ,medianDistance ,highestMode ,StDev ,SEmean ,maxAbs
+8.7444e-02 ,9.3700e-02 ,1.1048e-01 ,6.7429e-02 ,1.8191e-04 ,3.5630e-01
+RESULTS_pkd.csv
+meanDistance ,medianDistance ,highestMode ,StDev ,SEmean ,maxAbs
+5.2915e+00 ,5.2909e+00 ,5.2941e+00 ,6.7190e-01 ,1.9337e-03 ,8.9893e+00

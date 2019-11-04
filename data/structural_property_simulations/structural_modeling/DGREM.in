@@ -1,0 +1,12 @@
+# A) Input files
+PDB=TEMPDG.pdb  # file_pdb
+CHAIN=A
+FILE_STR=/ufrc/bryankol/bryank/src/DeltaGREM/structures.in
+#================================================================
+# B) Thermodynamic model
+TEMP=	0.5		  # Temperature
+SU1=	0.065		# configurational entropy per res (unfold)
+SC1=  0.065		# configurational entropy per res (misfold)
+SC0=  0.0		  # configurational entropy offset (misfold)
+REM=   2		  # Use up to 1,2,3r moments of misfolding energy?
+
