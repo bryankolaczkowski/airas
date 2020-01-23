@@ -1,0 +1,46 @@
+name  len_diff	Pgap_diff	Pvar_diff	Ppars_diff
+CARD
+structaligned	-0.4650	-0.1607	1.7527	1.6720
+aligned_clustalw	-0.7670	-0.6068	2.0729	2.8276
+aligned_mafft	-0.3103	-0.0848	1.6537	1.6205
+aligned_msaprobs	-0.4901	-0.1864	1.8942	2.2283
+aligned_muscle	-0.1930	-0.0466	1.8591	2.0193
+aligned_probalign	-0.3335	-0.0978	1.9258	2.3551
+aligned_probcons	-0.2045	-0.0494	1.7220	1.5354
+aligned_tcoffee	-0.2556	-0.0643	1.5069	1.4008
+DSRM1
+structaligned	-0.3121	-0.2729	0.7762	0.7200
+aligned_clustalw	-0.5011	-0.6022	0.9540	1.1194
+aligned_mafft	0.4983	0.1968	0.7814	0.6061
+aligned_msaprobs	-0.1147	-0.0840	0.7015	0.5650
+aligned_muscle	0.1336	0.0607	0.8460	0.7401
+aligned_probalign	0.2871	0.1225	0.8674	0.8985
+aligned_probcons	-0.1103	-0.0757	0.5885	0.4377
+aligned_tcoffee	0.0937	0.0476	0.5823	0.4252
+DSRM2
+structaligned	-0.4063	-0.2443	1.0989	1.2053
+aligned_clustalw	-0.6283	-0.5980	1.3287	1.7999
+aligned_mafft	0.1486	0.0474	1.0767	1.1024
+aligned_msaprobs	-0.2892	-0.1431	1.0139	1.0000
+aligned_muscle	-0.0593	-0.0299	1.1815	1.2945
+aligned_probalign	0.0091	-0.0099	1.1904	1.4429
+aligned_probcons	-0.2509	-0.1219	0.9387	0.8759
+aligned_tcoffee	-0.0353	-0.0209	0.8596	0.8926
+DSRM3
+structaligned	-0.0151	-0.0628	0.0819	0.0422
+aligned_clustalw	-0.1032	-0.4655	0.1632	0.1571
+aligned_mafft	0.2703	0.7802	0.0243	-0.1225
+aligned_msaprobs	0.0000	-0.0094	0.0537	0.0235
+aligned_muscle	-0.0035	-0.0111	0.1066	0.0471
+aligned_probalign	0.4524	1.2456	0.0294	-0.1552
+aligned_probcons	-0.0023	-0.0136	0.0745	0.0277
+aligned_tcoffee	0.2517	0.7961	-0.0548	-0.1317
+RD
+structaligned	-0.2374	-0.2657	0.5040	0.3760
+aligned_clustalw	-0.3639	-0.4888	0.7671	0.7902
+aligned_mafft	-0.2288	-0.2549	0.6160	0.4770
+aligned_msaprobs	-0.1847	-0.1941	0.3783	0.2637
+aligned_muscle	-0.2296	-0.2550	0.6537	0.4967
+aligned_probalign	-0.1839	-0.1918	0.3723	0.2723
+aligned_probcons	-0.1874	-0.1970	0.4091	0.2877
+aligned_tcoffee	-0.1706	-0.1774	0.4372	0.3690
