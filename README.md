@@ -6,9 +6,9 @@ files associated with the Kolaczkowski Lab's AIRAS project, which calculates
 ancestral protein sequences while integrating over different alignments.
 
 Further information on the methodology can be found in the project's main
-pre-release publication:
+peer-reviewed publication:
 
-https://doi.org/10.1101/2020.02.26.965186
+https://doi.org/10.1093/gbe/evaa164
 
 All data and results files used in the above publication, as well as all
 scripts and spreadsheets used for data analysis and visualization can be
